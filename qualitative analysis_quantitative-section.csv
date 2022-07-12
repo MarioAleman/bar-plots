@@ -1,0 +1,49 @@
+Theme,Coding,NCDs,Code_frequency
+Milk alteration,Alteration of biochemical composition of the mother milk ,Obesity,5
+Milk alteration,Alteration of microbiological profiles of the mother milk ,Obesity,6
+Epigenetic modification,DNA methylation,Obesity,9
+Epigenetic modification,Histone tails ,Obesity,2
+Epigenetic modification,miRNAs ,Obesity,3
+Epigenetic modification,Modulation of genetic expression ,Obesity,42
+Metabolic disturbance,Pups also suffer a NCDs,Obesity,34
+Metabolic disturbance,Pups show a metabolic disturbance ,Obesity,40
+Metabolic disturbance,Pups dysbiosis in their microbiota ,Obesity,3
+Protector effect,Protector effect ,Obesity,0
+Protector effect,No protector effect ,Obesity,0
+Protector effect,No difference ,Obesity,0
+Milk alteration,Alteration of biochemical composition of the mother milk ,Diabetes,0
+Milk alteration,Alteration of microbiological profiles of the mother milk ,Diabetes,1
+Epigenetic modification,DNA methylation,Diabetes,0
+Epigenetic modification,Histone tails ,Diabetes,0
+Epigenetic modification,miRNAs ,Diabetes,0
+Epigenetic modification,Modulation of genetic expression ,Diabetes,2
+Metabolic disturbance,Pups also suffer a NCDs,Diabetes,5
+Metabolic disturbance,Pups show a metabolic disturbance ,Diabetes,3
+Metabolic disturbance,Pups dysbiosis in their microbiota ,Diabetes,0
+Protector effect,Protector effect ,Diabetes,0
+Protector effect,No protector effect ,Diabetes,0
+Protector effect,No difference ,Diabetes,0
+Milk alteration,Alteration of biochemical composition of the mother milk ,Cancer,1
+Milk alteration,Alteration of microbiological profiles of the mother milk ,Cancer,0
+Epigenetic modification,DNA methylation,Cancer,0
+Epigenetic modification,Histone tails ,Cancer,0
+Epigenetic modification,miRNAs ,Cancer,0
+Epigenetic modification,Modulation of genetic expression ,Cancer,0
+Metabolic disturbance,Pups also suffer a NCDs,Cancer,0
+Metabolic disturbance,Pups show a metabolic disturbance ,Cancer,0
+Metabolic disturbance,Pups dysbiosis in their microbiota ,Cancer,0
+Protector effect,Protector effect ,Cancer,0
+Protector effect,No protector effect ,Cancer,0
+Protector effect,No difference ,Cancer,0
+Milk alteration,Alteration of biochemical composition of the mother milk ,Other,2
+Milk alteration,Alteration of microbiological profiles of the mother milk ,Other,2
+Epigenetic modification,DNA methylation,Other,6
+Epigenetic modification,Histone tails ,Other,1
+Epigenetic modification,miRNAs ,Other,4
+Epigenetic modification,Modulation of genetic expression ,Other,7
+Metabolic disturbance,Pups also suffer a NCDs,Other,12
+Metabolic disturbance,Pups show a metabolic disturbance ,Other,12
+Metabolic disturbance,Pups dysbiosis in their microbiota ,Other,2
+Protector effect,Protector effect ,Other,3
+Protector effect,No protector effect ,Other,1
+Protector effect,No difference ,Other,1
